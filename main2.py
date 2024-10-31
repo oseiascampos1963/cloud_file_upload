@@ -17,7 +17,10 @@ client = bigquery.Client.from_service_account_json('C:/bigq/primal-cascade-32440
 ## along the following dimensions: time period, district, and battalion
 
 
-query = """
+query ="""
+    SELECT `Incident Date`,`neighborhood_district`,`Battalion`, COUNT(*) as NumberOfIncidents 
+    FROM `primal-cascade-324404.TesteDados.Fire_Incidents_20241025` 
+    GROUP BY `Incident Date`,`neighborhood_district`,`Battalion` limit 2000
 
 """
 
