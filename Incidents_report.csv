@@ -1,0 +1,2001 @@
+Incident Dates,District,Battalion ,Number Of Incidents
+2021/10/18,South of Market,B03,6
+2018/06/18,Western Addition,B04,7
+2021/10/09,Mission,B06,1
+2021/10/17,Bernal Heights,B06,2
+2021/10/15,Noe Valley,B06,1
+2014/05/27,Chinatown,B01,4
+2016/09/25,Lone Mountain/USF,B07,2
+2020/10/19,Lone Mountain/USF,B05,2
+2021/10/12,Bayview Hunters Point,B10,5
+2016/09/07,Lakeshore,B08,3
+2021/10/19,Hayes Valley,B02,2
+2021/10/17,Bayview Hunters Point,B10,9
+2021/10/18,Portola,B10,1
+2021/10/18,Bayview Hunters Point,B10,3
+2003/03/15,Tenderloin,B03,3
+2003/05/25,Tenderloin,B05,2
+2003/05/26,Western Addition,B05,1
+2003/04/06,Castro/Upper Market,B05,1
+2003/05/31,Castro/Upper Market,B06,1
+2003/07/14,Mission,B06,7
+2003/07/14,Bayview Hunters Point,B10,9
+2003/07/23,Outer Mission,B09,3
+2003/08/13,Sunset/Parkside,B08,3
+2003/04/06,West of Twin Peaks,B08,1
+2003/04/12,Oceanview/Merced/Ingleside,B09,2
+2003/03/29,Twin Peaks,B08,1
+2003/05/17,Inner Sunset,B05,1
+2003/07/20,Inner Sunset,B08,1
+2003/05/12,Sunset/Parkside,B08,2
+2003/05/18,Sunset/Parkside,B08,6
+2003/05/13,Bernal Heights,B06,3
+2003/05/19,Excelsior,B09,2
+2003/07/14,Bernal Heights,B06,7
+2003/07/12,Oceanview/Merced/Ingleside,B09,3
+2003/04/12,Outer Richmond,B07,5
+2003/08/05,Financial District/South Beach,B03,8
+2003/04/08,Bayview Hunters Point,B10,9
+2003/04/13,Bayview Hunters Point,B10,4
+2003/04/28,Portola,B10,1
+2003/05/01,Bayview Hunters Point,B10,6
+2003/05/04,Bernal Heights,B10,1
+2003/05/04,Portola,B10,2
+2003/05/19,Portola,B10,1
+2003/05/25,Bernal Heights,B10,2
+2003/05/25,Bayview Hunters Point,B10,8
+2003/06/03,Portola,B09,1
+2003/06/04,Portola,B10,1
+2003/06/09,Bayview Hunters Point,B10,8
+2003/06/09,Portola,B10,1
+2003/06/15,Bayview Hunters Point,B10,8
+2003/06/15,Portola,B10,2
+2003/06/15,McLaren Park,B09,1
+2003/06/18,Portola,B09,1
+2003/07/03,Bayview Hunters Point,B10,6
+2003/07/06,Bayview Hunters Point,B10,11
+2003/07/06,Portola,B10,3
+2003/07/07,Portola,B10,2
+2003/07/24,Portola,B10,1
+2003/05/28,Bayview Hunters Point,B10,9
+2006/09/14,Financial District/South Beach,B03,4
+2010/02/03,Financial District/South Beach,B01,7
+2013/09/17,South of Market,B03,6
+2003/10/18,South of Market,B03,4
+2008/06/17,Tenderloin,B04,3
+2011/07/06,Tenderloin,B04,3
+2013/09/21,Tenderloin,B02,6
+2003/07/16,Tenderloin,B04,1
+2009/02/17,Western Addition,B04,1
+2006/08/26,Mission,B06,5
+2007/04/01,Mission,B02,2
+2003/05/26,Mission,B06,3
+2009/02/23,South of Market,B03,8
+2009/09/23,Mission Bay,B03,1
+2009/11/23,South of Market,B03,6
+2009/11/23,Financial District/South Beach,B03,5
+2009/11/24,South of Market,B03,10
+2009/09/19,Mission,B06,5
+2013/07/02,Lone Mountain/USF,B05,2
+2011/12/25,Mission,B06,1
+2007/03/10,Haight Ashbury,B05,2
+2009/12/05,Haight Ashbury,B05,3
+2007/03/16,Financial District/South Beach,B01,9
+2007/06/28,Financial District/South Beach,B01,5
+2007/12/11,Outer Richmond,B07,2
+2012/08/14,Outer Mission,B09,2
+2003/10/12,Outer Mission,B09,3
+2006/02/25,Marina,B04,2
+2012/06/06,Marina,B04,5
+2012/11/08,Russian Hill,B01,2
+2013/01/09,Marina,B04,1
+2013/10/05,Marina,B04,3
+2013/10/30,Marina,B04,2
+2007/07/31,Bayview Hunters Point,B10,8
+2009/01/17,Bayview Hunters Point,B10,9
+2013/09/21,Hayes Valley,B05,2
+2006/09/08,Inner Sunset,B08,2
+2007/04/10,Sunset/Parkside,B08,4
+2013/03/30,Golden Gate Park,B08,2
+2012/08/22,Sunset/Parkside,B08,4
+2007/09/01,Russian Hill,B01,2
+2007/09/25,Chinatown,B01,2
+2007/10/26,Russian Hill,B01,1
+2007/12/27,North Beach,B01,3
+2008/01/27,North Beach,B01,1
+2008/02/28,North Beach,B01,3
+2008/03/05,North Beach,B01,2
+2008/07/04,North Beach,B01,3
+2008/08/07,Russian Hill,B01,2
+2008/08/21,North Beach,B01,3
+2008/08/31,Russian Hill,B01,4
+2008/08/31,North Beach,B01,6
+2008/09/07,North Beach,B01,3
+2009/07/27,Inner Richmond,B07,2
+2013/12/04,Outer Mission,B09,3
+2012/09/11,Lakeshore,B08,4
+2013/01/03,Lakeshore,B08,2
+2007/03/29,Tenderloin,B02,5
+2007/07/31,Mission,B02,8
+2007/08/22,Mission,B02,5
+2007/08/22,South of Market,B02,2
+2007/08/23,Mission,B02,6
+2007/09/21,Hayes Valley,B02,3
+2008/12/30,Mission,B02,3
+2009/02/17,Tenderloin,B02,2
+2007/04/13,Potrero Hill,B10,1
+2009/10/26,West of Twin Peaks,B09,1
+2012/05/20,Sunset/Parkside,B08,6
+2008/07/04,Russian Hill,B01,5
+2014/02/06,Pacific Heights,B04,3
+2014/02/06,Nob Hill,B04,1
+2007/11/10,Bayview Hunters Point,B10,5
+2008/12/09,Bayview Hunters Point,B10,12
+2008/12/12,Portola,B09,1
+2009/01/27,Portola,B09,1
+2009/01/30,Bayview Hunters Point,B10,6
+2009/01/31,Bayview Hunters Point,B10,4
+2009/02/09,Bayview Hunters Point,B10,6
+2009/02/20,Bayview Hunters Point,B10,4
+2010/05/04,Bernal Heights,B10,1
+2007/05/03,,B09,6
+2008/09/25,Visitacion Valley,B10,1
+2009/01/12,Visitacion Valley,B10,1
+2009/03/23,Visitacion Valley,B09,1
+2011/03/28,,B09,4
+2011/08/30,Visitacion Valley,B10,2
+2003/06/12,Financial District/South Beach,B03,2
+2003/06/03,Western Addition,B05,2
+2003/04/04,Haight Ashbury,B05,2
+2003/03/31,Oceanview/Merced/Ingleside,B09,3
+2003/04/26,Marina,B04,2
+2003/05/05,Marina,B04,2
+2003/05/14,Marina,B04,2
+2003/05/17,Marina,B04,3
+2003/06/07,Marina,B04,4
+2003/06/08,Marina,B04,4
+2003/06/10,Marina,B04,3
+2003/06/19,Marina,B04,2
+2003/06/25,Marina,B04,4
+2003/07/07,Marina,B04,4
+2003/07/07,Russian Hill,B01,2
+2003/07/09,Marina,B04,2
+2003/07/16,Marina,B04,2
+2003/07/20,Marina,B04,3
+2003/07/20,Russian Hill,B01,5
+2003/07/22,Marina,B04,2
+2003/07/22,Russian Hill,B01,7
+2003/08/01,Marina,B04,2
+2003/08/04,Marina,B04,1
+2003/08/06,Marina,B04,5
+2003/08/07,Marina,B04,7
+2003/08/09,Marina,B04,5
+2003/08/10,Marina,B04,5
+2003/05/12,Inner Richmond,B07,1
+2003/06/11,Financial District/South Beach,B03,8
+2003/06/16,Pacific Heights,B04,9
+2003/06/26,Marina,B04,6
+2003/01/03,Tenderloin,B03,1
+2003/04/01,Chinatown,B01,5
+2003/04/30,Tenderloin,B04,2
+2003/07/13,Nob Hill,B04,1
+2005/12/14,Golden Gate Park,B07,1
+2005/12/14,Outer Richmond,B07,4
+2003/05/26,Marina,B04,3
+2006/11/05,Bayview Hunters Point,B10,6
+2003/05/11,Lakeshore,B08,1
+2003/04/16,Mission,B02,4
+2003/06/11,Hayes Valley,B02,1
+2007/12/20,Mission,B06,2
+2010/06/27,Presidio Heights,B04,1
+2010/09/19,North Beach,B01,2
+2008/09/23,Sunset/Parkside,B08,2
+2010/11/29,Pacific Heights,B04,5
+2014/05/10,Outer Richmond,B07,2
+2015/04/20,,B07,1
+2021/11/23,,B08,1
+2014/05/16,South of Market,B03,5
+2014/06/05,South of Market,B03,7
+2014/06/10,South of Market,B03,8
+2014/06/16,Financial District/South Beach,B03,3
+2014/07/12,Financial District/South Beach,B03,6
+2014/09/16,South of Market,B02,3
+2014/10/18,Financial District/South Beach,B03,6
+2014/11/10,Tenderloin,B03,2
+2014/12/16,South of Market,B03,6
+2015/01/07,Tenderloin,B03,7
+2015/01/17,South of Market,B03,3
+2015/02/11,South of Market,B03,4
+2015/05/07,South of Market,B03,3
+2015/08/07,Financial District/South Beach,B01,3
+2015/08/22,South of Market,B03,5
+2015/11/03,South of Market,B03,4
+2016/02/05,Tenderloin,B03,4
+2016/04/05,Financial District/South Beach,B03,4
+2016/05/17,Financial District/South Beach,B01,6
+2016/10/10,South of Market,B03,4
+2017/01/05,Tenderloin,B03,4
+2017/01/17,South of Market,B03,5
+2017/01/30,Financial District/South Beach,B03,5
+2017/02/22,Tenderloin,B03,2
+2017/04/17,Western Addition,B05,4
+2017/06/02,South of Market,B03,5
+2017/07/28,Tenderloin,B03,2
+2017/08/27,South of Market,B02,3
+2017/09/09,South of Market,B03,2
+2017/09/30,South of Market,B02,2
+2018/01/04,Financial District/South Beach,B03,11
+2018/01/27,South of Market,B02,2
+2018/01/31,South of Market,B03,6
+2018/04/03,South of Market,B03,2
+2018/05/29,South of Market,B03,6
+2018/08/25,South of Market,B03,8
+2019/03/10,South of Market,B03,4
+2019/06/12,South of Market,B02,2
+2019/07/06,South of Market,B02,1
+2019/11/17,Tenderloin,B03,2
+2019/12/16,South of Market,B03,3
+2020/01/07,South of Market,B03,6
+2020/02/23,Tenderloin,B03,5
+2020/03/15,South of Market,B03,3
+2020/06/07,South of Market,B02,2
+2020/08/10,South of Market,B03,4
+2020/08/30,Tenderloin,B03,4
+2020/09/11,Financial District/South Beach,B03,4
+2020/12/06,Financial District/South Beach,B03,2
+2021/01/09,South of Market,B03,3
+2021/01/13,Tenderloin,B03,5
+2021/05/09,South of Market,B02,4
+2021/08/07,South of Market,B02,2
+2021/09/15,South of Market,B03,3
+2021/09/17,South of Market,B03,8
+2021/11/28,South of Market,B03,4
+2021/12/04,South of Market,B03,3
+2021/12/25,South of Market,B03,11
+2022/01/01,Tenderloin,B03,4
+2022/01/06,South of Market,B02,4
+2022/04/16,South of Market,B03,3
+2022/06/12,South of Market,B02,3
+2022/08/16,South of Market,B03,6
+2022/08/19,South of Market,B03,5
+2022/11/11,Financial District/South Beach,B03,5
+2022/11/19,South of Market,B02,6
+2022/12/18,South of Market,B03,6
+2023/01/17,South of Market,B03,2
+2023/02/13,South of Market,B02,4
+2023/02/25,South of Market,B03,4
+2023/03/04,South of Market,B03,4
+2023/04/05,South of Market,B03,10
+2023/04/09,South of Market,B03,3
+2023/04/17,South of Market,B02,3
+2023/05/01,South of Market,B03,3
+2023/06/07,South of Market,B03,7
+2023/06/20,South of Market,B03,4
+2023/06/25,South of Market,B03,7
+2023/08/24,South of Market,B03,14
+2023/10/25,South of Market,B03,10
+2023/11/14,South of Market,B03,5
+2023/12/10,South of Market,B03,10
+2023/12/13,South of Market,B03,4
+2024/02/04,South of Market,B03,11
+2024/04/01,South of Market,B03,5
+2024/05/09,South of Market,B03,3
+2024/05/25,Tenderloin,B03,3
+2024/08/22,South of Market,B03,6
+2024/10/03,South of Market,B03,9
+2024/10/08,South of Market,B03,2
+2014/07/20,Chinatown,B01,7
+2015/07/04,Chinatown,B01,5
+2015/10/11,Chinatown,B01,4
+2015/10/19,North Beach,B01,2
+2015/12/04,Chinatown,B01,2
+2014/04/20,Chinatown,B01,3
+2017/05/12,Chinatown,B01,2
+2017/07/20,Chinatown,B01,4
+2017/10/13,Chinatown,B01,1
+2017/12/16,Russian Hill,B01,3
+2018/03/16,Chinatown,B01,2
+2018/04/06,Chinatown,B01,2
+2018/09/11,Chinatown,B01,5
+2018/11/05,Chinatown,B01,5
+2019/04/13,Chinatown,B01,7
+2020/06/14,Chinatown,B01,1
+2020/10/01,Nob Hill,B01,2
+2020/12/13,Chinatown,B01,3
+2021/04/11,Nob Hill,B01,3
+2021/06/16,Chinatown,B01,4
+2022/05/18,North Beach,B01,1
+2022/09/10,Nob Hill,B01,4
+2022/09/24,Chinatown,B01,3
+2023/11/29,Nob Hill,B01,4
+2024/03/24,Nob Hill,B01,2
+2024/08/03,Financial District/South Beach,B01,1
+2024/09/24,Chinatown,B01,1
+2014/04/29,Tenderloin,B04,1
+2014/05/28,Tenderloin,B03,4
+2014/06/14,Tenderloin,B02,4
+2014/07/05,Tenderloin,B02,2
+2014/10/17,Tenderloin,B02,4
+2014/11/16,Tenderloin,B04,2
+2015/01/13,Tenderloin,B02,5
+2015/02/01,Tenderloin,B02,1
+2015/02/26,Nob Hill,B01,1
+2015/03/21,Tenderloin,B01,4
+2015/05/16,Tenderloin,B04,2
+2015/06/12,Tenderloin,B01,2
+2015/07/12,Tenderloin,B02,4
+2015/07/28,Tenderloin,B02,8
+2015/09/14,Tenderloin,B04,3
+2015/12/05,Tenderloin,B02,4
+2016/02/11,Tenderloin,B02,5
+2016/02/22,Tenderloin,B03,1
+2016/02/28,Nob Hill,B04,2
+2016/03/03,Nob Hill,B04,1
+2016/08/28,Tenderloin,B04,4
+2016/10/25,Tenderloin,B02,1
+2016/11/15,Tenderloin,B04,1
+2016/12/07,Tenderloin,B04,2
+2017/01/01,Nob Hill,B01,3
+2017/02/20,Tenderloin,B03,2
+2017/08/04,Tenderloin,B02,4
+2017/08/09,Tenderloin,B03,7
+2017/08/19,Tenderloin,B01,1
+2017/08/21,Tenderloin,B02,6
+2017/08/21,Tenderloin,B04,2
+2017/10/07,Tenderloin,B04,3
+2017/10/12,Japantown,B04,1
+2017/11/01,Nob Hill,B04,2
+2017/11/20,Tenderloin,B03,3
+2017/12/23,Nob Hill,B04,1
+2018/02/16,Tenderloin,B02,7
+2018/04/14,Tenderloin,B02,1
+2018/05/10,Financial District/South Beach,B03,2
+2018/08/09,Tenderloin,B04,1
+2018/08/18,Tenderloin,B03,6
+2018/09/07,Tenderloin,B04,1
+2018/09/10,Tenderloin,B04,2
+2018/10/09,Tenderloin,B03,3
+2018/11/30,Financial District/South Beach,B03,5
+2018/12/14,Tenderloin,B03,4
+2018/12/24,Tenderloin,B04,4
+2019/01/27,Nob Hill,B04,1
+2019/02/05,Tenderloin,B02,7
+2019/03/01,Tenderloin,B01,2
+2019/05/15,Tenderloin,B04,1
+2019/06/16,Tenderloin,B03,6
+2019/06/26,Tenderloin,B02,4
+2019/10/03,Tenderloin,B03,5
+2019/10/09,Tenderloin,B01,2
+2019/11/28,Tenderloin,B02,3
+2020/02/23,Tenderloin,B02,3
+2020/02/24,Tenderloin,B03,1
+2020/02/28,Tenderloin,B04,3
+2020/03/31,Tenderloin,B02,1
+2020/04/30,Nob Hill,B04,3
+2020/05/10,Tenderloin,B03,4
+2020/05/13,Tenderloin,B04,2
+2020/06/02,Tenderloin,B03,3
+2020/07/07,Nob Hill,B04,2
+2020/09/07,Nob Hill,B04,1
+2020/11/14,Nob Hill,B04,2
+2020/11/29,Tenderloin,B03,3
+2021/01/24,Tenderloin,B04,1
+2021/03/11,Nob Hill,B04,1
+2021/04/30,Nob Hill,B04,4
+2021/05/13,Western Addition,B04,2
+2021/05/13,Tenderloin,B02,7
+2021/07/06,Tenderloin,B03,3
+2021/08/14,Nob Hill,B04,6
+2021/09/15,Nob Hill,B04,5
+2021/09/20,Tenderloin,B02,3
+2021/10/18,Tenderloin,B03,4
+2021/11/20,Tenderloin,B04,4
+2021/12/04,Tenderloin,B04,5
+2022/01/12,Tenderloin,B02,5
+2022/02/20,Tenderloin,B04,3
+2022/03/25,Nob Hill,B04,1
+2022/04/22,Tenderloin,B03,3
+2022/09/05,Tenderloin,B03,5
+2022/09/11,Tenderloin,B02,5
+2022/09/30,Tenderloin,B01,2
+2022/11/14,Tenderloin,B03,6
+2023/01/01,Tenderloin,B01,3
+2023/02/14,Tenderloin,B04,4
+2023/03/07,Tenderloin,B04,5
+2023/03/11,Tenderloin,B03,2
+2023/03/17,Tenderloin,B01,2
+2023/04/19,Tenderloin,B03,2
+2023/04/19,Tenderloin,B01,2
+2023/05/27,Nob Hill,B01,3
+2023/06/08,Tenderloin,B03,6
+2023/06/28,Tenderloin,B03,4
+2023/09/19,Tenderloin,B02,4
+2023/09/23,Nob Hill,B01,2
+2023/09/29,Tenderloin,B04,2
+2023/10/04,Tenderloin,B04,3
+2023/11/11,Tenderloin,B04,1
+2023/11/29,Tenderloin,B02,8
+2023/12/29,Nob Hill,B04,1
+2024/02/14,Tenderloin,B02,6
+2024/03/10,Tenderloin,B03,3
+2024/03/15,Tenderloin,B04,4
+2024/03/31,Tenderloin,B04,1
+2024/04/22,Tenderloin,B03,4
+2024/04/22,Tenderloin,B04,2
+2024/06/28,Tenderloin,B04,2
+2024/07/07,Tenderloin,B03,5
+2024/07/10,Tenderloin,B01,3
+2024/09/03,Nob Hill,B04,2
+2024/09/16,Tenderloin,B01,2
+2024/09/22,Nob Hill,B01,2
+2024/10/12,,B04,1
+2016/04/04,Mission Bay,B03,1
+2016/04/22,Mission Bay,B03,4
+2018/06/17,Mission Bay,B03,1
+2019/10/06,Mission Bay,B03,3
+2019/12/07,Mission Bay,B03,3
+2019/12/30,Mission Bay,B03,7
+2020/06/03,Potrero Hill,B03,3
+2021/06/06,Potrero Hill,B03,2
+2021/06/29,Mission Bay,B03,2
+2021/11/04,Potrero Hill,B03,2
+2021/12/27,Mission Bay,B03,1
+2022/04/25,Mission Bay,B03,2
+2022/05/19,Potrero Hill,B03,2
+2022/07/15,Mission Bay,B03,3
+2022/09/02,Mission Bay,B03,3
+2023/07/11,Mission Bay,B03,1
+2024/06/16,Mission Bay,B03,3
+2024/08/11,Mission Bay,B03,3
+2024/08/27,Mission Bay,B03,3
+2014/05/04,Western Addition,B02,1
+2014/06/07,Western Addition,B04,2
+2014/08/10,Western Addition,B02,1
+2014/08/27,Western Addition,B02,1
+2014/09/09,Western Addition,B05,1
+2014/09/17,Western Addition,B02,2
+2014/09/23,Western Addition,B05,1
+2014/09/26,Western Addition,B04,1
+2014/10/03,Western Addition,B05,3
+2014/11/16,Western Addition,B05,1
+2014/12/23,Western Addition,B04,2
+2015/06/20,Western Addition,B05,2
+2015/09/18,Western Addition,B02,3
+2015/10/12,Western Addition,B05,1
+2015/10/17,Hayes Valley,B02,2
+2015/12/24,Western Addition,B02,1
+2016/02/27,Western Addition,B02,4
+2016/03/04,Western Addition,B05,1
+2016/03/23,Western Addition,B04,2
+2016/04/09,Western Addition,B05,3
+2016/04/29,Western Addition,B05,5
+2016/05/08,Western Addition,B02,2
+2016/05/13,Western Addition,B05,5
+2016/05/21,Western Addition,B05,1
+2016/06/03,Western Addition,B05,1
+2016/06/11,Western Addition,B05,1
+2016/07/26,Western Addition,B05,2
+2016/08/19,Western Addition,B02,2
+2016/08/26,Western Addition,B04,2
+2016/09/05,Japantown,B04,1
+2016/10/22,Western Addition,B05,3
+2017/02/10,Western Addition,B05,3
+2017/03/21,Western Addition,B05,1
+2017/05/24,Western Addition,B05,2
+2017/06/11,Western Addition,B02,2
+2017/06/29,Western Addition,B02,1
+2017/07/01,Western Addition,B02,2
+2017/11/07,Japantown,B04,1
+2017/12/24,Western Addition,B05,1
+2018/01/16,Western Addition,B05,3
+2018/05/17,Hayes Valley,B05,3
+2018/06/13,Hayes Valley,B05,2
+2018/12/02,Western Addition,B05,3
+2019/01/21,Western Addition,B02,2
+2019/04/26,Japantown,B04,1
+2019/08/10,Western Addition,B04,2
+2019/09/28,Western Addition,B02,2
+2019/10/26,Hayes Valley,B05,2
+2019/12/11,Western Addition,B05,3
+2020/04/20,Western Addition,B02,2
+2020/06/21,Western Addition,B04,1
+2020/07/04,Western Addition,B05,3
+2020/09/13,Western Addition,B02,2
+2020/10/08,Hayes Valley,B02,3
+2020/11/25,Japantown,B04,1
+2020/11/26,Western Addition,B02,3
+2020/12/18,Western Addition,B05,2
+2021/04/28,Western Addition,B05,2
+2021/07/31,Western Addition,B02,2
+2021/10/26,Western Addition,B05,1
+2021/12/17,Western Addition,B05,3
+2022/01/22,Western Addition,B05,3
+2022/01/24,Western Addition,B02,2
+2022/03/13,Western Addition,B04,3
+2022/04/01,Western Addition,B05,2
+2022/04/14,Western Addition,B02,3
+2022/04/16,Western Addition,B05,2
+2022/05/19,Western Addition,B02,2
+2022/05/21,Hayes Valley,B05,1
+2022/08/26,Western Addition,B04,1
+2022/08/31,Western Addition,B02,2
+2022/10/30,Western Addition,B05,2
+2022/11/12,Western Addition,B04,1
+2022/11/20,Western Addition,B05,4
+2023/01/22,Western Addition,B02,1
+2023/02/06,Western Addition,B05,4
+2023/03/11,Western Addition,B05,1
+2023/09/06,Western Addition,B05,5
+2023/11/03,Western Addition,B05,2
+2023/12/17,Western Addition,B05,3
+2024/05/29,Western Addition,B02,1
+2024/08/14,Western Addition,B05,2
+2024/09/22,,B05,1
+2014/08/04,Castro/Upper Market,B05,3
+2014/09/12,Castro/Upper Market,B02,1
+2014/10/22,Haight Ashbury,B05,1
+2014/10/25,Mission,B02,5
+2014/11/09,Castro/Upper Market,B05,2
+2014/12/11,Castro/Upper Market,B05,2
+2015/02/02,Castro/Upper Market,B05,3
+2015/04/07,Castro/Upper Market,B05,1
+2015/08/01,Hayes Valley,B02,1
+2015/10/26,Castro/Upper Market,B05,2
+2015/11/05,Castro/Upper Market,B05,3
+2016/01/15,Mission,B02,2
+2016/02/14,Castro/Upper Market,B05,1
+2016/03/23,Castro/Upper Market,B02,1
+2016/03/27,Hayes Valley,B02,2
+2016/06/08,Castro/Upper Market,B05,3
+2016/08/30,Hayes Valley,B02,5
+2016/12/26,Castro/Upper Market,B02,1
+2014/03/25,Castro/Upper Market,B06,1
+2014/03/31,Castro/Upper Market,B05,3
+2017/01/22,Haight Ashbury,B05,5
+2017/04/14,Hayes Valley,B02,3
+2017/05/11,Castro/Upper Market,B05,3
+2017/06/18,Hayes Valley,B02,8
+2017/06/28,Mission,B02,6
+2017/09/13,Hayes Valley,B02,3
+2017/09/29,Castro/Upper Market,B02,1
+2017/11/05,Hayes Valley,B02,2
+2017/11/09,Mission,B02,9
+2017/12/30,Castro/Upper Market,B06,2
+2018/02/12,Castro/Upper Market,B02,1
+2018/06/24,Mission,B02,7
+2018/09/05,Castro/Upper Market,B05,3
+2018/11/27,Castro/Upper Market,B05,2
+2019/04/12,Castro/Upper Market,B05,3
+2019/06/20,Mission,B02,5
+2019/12/04,Hayes Valley,B05,1
+2019/12/23,Castro/Upper Market,B02,2
+2020/04/04,Castro/Upper Market,B05,2
+2020/05/19,Castro/Upper Market,B05,3
+2020/06/27,Castro/Upper Market,B02,2
+2020/10/02,Castro/Upper Market,B05,1
+2021/05/10,Castro/Upper Market,B05,1
+2021/06/19,Castro/Upper Market,B05,3
+2021/10/18,Mission,B02,3
+2021/11/10,Hayes Valley,B05,1
+2022/01/13,Castro/Upper Market,B05,4
+2022/04/01,Castro/Upper Market,B05,1
+2022/04/11,Castro/Upper Market,B05,2
+2022/06/06,Castro/Upper Market,B05,1
+2022/07/05,Castro/Upper Market,B02,3
+2022/12/26,Castro/Upper Market,B02,1
+2023/12/26,Castro/Upper Market,B02,3
+2024/05/31,Hayes Valley,B02,4
+2024/08/19,Castro/Upper Market,B02,1
+2014/12/10,Mission,B06,7
+2014/12/23,Mission,B06,4
+2015/03/01,Mission,B02,8
+2015/03/16,Mission,B06,4
+2015/05/22,Mission,B06,3
+2015/05/24,Mission,B06,4
+2015/06/07,Mission,B02,6
+2015/07/11,Mission,B06,3
+2015/07/23,Mission,B06,2
+2015/10/31,Mission,B06,2
+2016/04/13,Mission,B02,4
+2016/08/08,Mission,B06,3
+2016/10/13,Mission,B02,10
+2016/12/02,Mission,B02,6
+2016/12/15,Mission,B06,6
+2017/01/11,Mission,B06,6
+2014/03/26,Mission,B06,1
+2017/07/10,Mission,B06,2
+2017/07/11,Mission,B02,5
+2017/11/04,Mission,B02,6
+2018/03/19,Mission,B06,3
+2018/05/15,Mission,B06,4
+2018/05/29,Mission,B06,3
+2018/06/20,Mission,B02,6
+2018/09/11,Mission,B06,3
+2018/11/15,Mission,B06,4
+2018/12/01,Mission,B06,3
+2019/03/16,Mission,B02,6
+2019/04/12,Mission,B02,8
+2019/06/03,Mission,B06,2
+2019/06/21,Mission,B02,6
+2019/09/27,Mission,B02,9
+2019/10/07,Mission,B06,4
+2019/11/12,Mission,B06,7
+2019/11/15,Mission,B06,6
+2019/11/22,Mission,B02,7
+2019/12/28,Mission,B06,5
+2020/01/03,Mission,B02,7
+2020/03/06,Mission,B06,3
+2020/06/26,Mission,B06,4
+2021/03/28,Mission,B06,3
+2021/04/27,Mission,B02,2
+2021/07/21,Mission,B02,7
+2021/07/21,Mission,B06,6
+2021/12/18,Mission,B02,7
+2021/12/24,Castro/Upper Market,B06,1
+2022/02/05,Mission,B02,7
+2022/07/11,Mission,B02,9
+2022/08/04,Mission,B02,4
+2022/08/17,Mission,B06,8
+2022/09/23,Mission,B02,11
+2023/01/31,Mission,B02,12
+2023/04/01,Mission,B06,3
+2023/04/30,Mission,B02,2
+2023/06/29,Mission,B02,13
+2023/07/16,Mission,B06,4
+2023/08/19,Mission,B06,6
+2023/09/16,Mission,B02,10
+2024/02/20,Mission,B06,5
+2024/06/12,Mission,B06,2
+2024/06/13,Mission,B06,3
+2014/10/23,South of Market,B03,4
+2014/11/18,South of Market,B03,7
+2015/01/13,South of Market,B03,5
+2015/09/16,Financial District/South Beach,B03,2
+2015/10/27,South of Market,B03,10
+2015/11/06,Financial District/South Beach,B03,7
+2016/12/04,South of Market,B03,7
+2017/02/14,South of Market,B03,9
+2019/01/02,Mission Bay,B03,1
+2019/10/05,South of Market,B03,5
+2022/08/30,Mission Bay,B03,4
+2023/06/04,Mission Bay,B03,6
+2024/05/24,Financial District/South Beach,B03,3
+2024/07/21,Mission Bay,B03,2
+2014/04/26,Mission,B10,1
+2014/05/20,Bayview Hunters Point,B10,4
+2014/09/09,Mission,B10,1
+2014/11/14,Bernal Heights,B10,1
+2015/02/23,Bernal Heights,B06,3
+2015/06/18,Mission,B06,3
+2015/07/23,Mission,B10,1
+2016/06/25,Bayview Hunters Point,B10,9
+2016/08/30,Bernal Heights,B06,2
+2017/06/01,Bayview Hunters Point,B10,8
+2018/03/09,Mission,B10,1
+2018/07/21,Mission,B06,2
+2019/01/28,Mission,B06,3
+2022/12/01,Bayview Hunters Point,B10,4
+2023/05/29,Bayview Hunters Point,B10,13
+2023/08/17,Mission,B10,1
+2023/08/20,Mission,B06,3
+2024/04/26,Bernal Heights,B06,1
+2014/06/06,Inner Richmond,B07,2
+2014/07/22,Japantown,B05,1
+2014/07/29,Japantown,B05,1
+2014/07/31,Presidio Heights,B04,1
+2014/12/02,Presidio Heights,B07,1
+2014/12/13,Pacific Heights,B04,4
+2014/12/21,Lone Mountain/USF,B05,1
+2014/12/25,Japantown,B05,3
+2015/05/24,Presidio Heights,B05,1
+2015/08/01,Presidio,B04,1
+2015/09/06,Japantown,B05,1
+2015/09/23,Pacific Heights,B04,5
+2015/11/26,Japantown,B05,1
+2015/12/02,Japantown,B05,1
+2016/02/08,Inner Richmond,B07,3
+2016/02/21,Inner Richmond,B07,2
+2016/06/23,Presidio Heights,B05,1
+2016/06/25,Japantown,B05,1
+2016/07/28,Presidio Heights,B05,2
+2016/09/19,Japantown,B05,1
+2016/11/03,Pacific Heights,B04,2
+2016/12/18,Inner Richmond,B07,1
+2016/12/24,Japantown,B05,1
+2016/12/27,Inner Richmond,B07,2
+2017/01/11,Pacific Heights,B05,1
+2017/02/28,Presidio Heights,B05,2
+2017/09/08,Presidio Heights,B07,4
+2017/09/19,Presidio Heights,B04,1
+2017/10/16,Inner Richmond,B07,2
+2017/10/22,Presidio Heights,B05,2
+2017/10/26,Presidio Heights,B07,2
+2018/03/23,Presidio Heights,B05,1
+2018/05/10,Lone Mountain/USF,B05,1
+2018/07/19,Japantown,B05,1
+2018/07/20,Pacific Heights,B04,7
+2018/07/30,Pacific Heights,B04,4
+2018/10/20,Presidio Heights,B07,1
+2018/11/18,Pacific Heights,B05,1
+2019/09/05,,B05,1
+2020/08/15,Lone Mountain/USF,B05,1
+2020/08/27,Pacific Heights,B04,2
+2021/03/15,Lone Mountain/USF,B05,3
+2021/04/13,Lone Mountain/USF,B05,1
+2021/04/17,Presidio Heights,B04,1
+2021/04/20,Lone Mountain/USF,B05,1
+2021/09/02,Presidio Heights,B07,1
+2021/09/18,Pacific Heights,B04,4
+2021/10/17,Presidio Heights,B04,1
+2021/10/28,Presidio Heights,B05,1
+2021/11/11,Presidio Heights,B05,1
+2021/12/01,Presidio Heights,B07,2
+2022/08/03,Presidio Heights,B04,1
+2022/08/28,Presidio Heights,B05,2
+2023/05/08,Presidio Heights,B05,1
+2024/07/29,Japantown,B05,2
+2014/04/28,Noe Valley,B06,2
+2014/05/18,Noe Valley,B06,1
+2014/07/16,Noe Valley,B06,1
+2014/10/28,Bernal Heights,B06,2
+2014/11/06,Mission,B06,2
+2014/12/01,Noe Valley,B06,2
+2014/12/07,Noe Valley,B06,2
+2015/03/19,Noe Valley,B06,1
+2015/03/31,Mission,B06,2
+2015/04/01,Mission,B06,1
+2015/05/27,Bernal Heights,B06,3
+2015/05/29,Noe Valley,B06,5
+2015/06/14,Noe Valley,B06,3
+2015/10/17,Noe Valley,B06,2
+2016/01/25,Noe Valley,B06,3
+2016/08/29,Noe Valley,B06,2
+2016/10/13,Mission,B06,3
+2014/04/16,Noe Valley,B06,1
+2017/01/23,Mission,B06,3
+2017/05/31,Mission,B06,3
+2017/08/11,Noe Valley,B06,1
+2017/08/19,Bernal Heights,B06,3
+2017/12/10,Mission,B06,5
+2018/02/01,Mission,B06,5
+2018/02/15,Mission,B06,3
+2018/03/23,Mission,B06,2
+2018/04/08,Noe Valley,B06,2
+2018/05/03,Mission,B06,3
+2018/07/07,Noe Valley,B06,2
+2018/11/02,Castro/Upper Market,B06,1
+2019/01/20,Noe Valley,B06,1
+2019/03/17,Bernal Heights,B06,4
+2019/06/14,Noe Valley,B06,3
+2019/07/09,Noe Valley,B06,6
+2019/07/23,Noe Valley,B06,3
+2019/07/24,Noe Valley,B06,3
+2019/10/14,Mission,B06,1
+2019/10/20,Noe Valley,B06,2
+2019/12/07,Bernal Heights,B06,6
+2020/04/29,Noe Valley,B06,3
+2020/09/04,Mission,B06,1
+2021/07/08,Noe Valley,B06,2
+2022/01/13,Glen Park,B06,1
+2022/01/29,Noe Valley,B06,1
+2022/07/15,Noe Valley,B06,1
+2022/12/08,Noe Valley,B06,2
+2022/12/23,Castro/Upper Market,B06,1
+2023/05/15,Noe Valley,B06,2
+2023/05/16,Mission,B06,3
+2023/10/07,Noe Valley,B06,3
+2023/10/26,Noe Valley,B06,2
+2023/10/29,Mission,B06,2
+2023/12/04,Noe Valley,B06,2
+2024/03/02,Mission,B06,4
+2024/03/08,Noe Valley,B06,2
+2024/03/10,Bernal Heights,B06,2
+2024/05/21,Mission,B06,3
+2024/06/07,Glen Park,B06,1
+2024/07/04,Mission,B06,8
+2024/08/13,Noe Valley,B06,2
+2015/03/03,Haight Ashbury,B05,1
+2015/03/20,Inner Sunset,B05,1
+2016/04/09,Haight Ashbury,B05,2
+2016/12/01,Haight Ashbury,B05,2
+2017/01/01,Haight Ashbury,B05,2
+2017/04/13,Haight Ashbury,B05,2
+2017/05/22,Haight Ashbury,B05,1
+2017/11/01,Haight Ashbury,B05,2
+2017/12/06,Haight Ashbury,B05,3
+2018/04/09,Haight Ashbury,B05,4
+2018/06/16,Haight Ashbury,B05,2
+2018/10/28,Inner Sunset,B05,2
+2019/04/03,Haight Ashbury,B05,4
+2019/06/26,Haight Ashbury,B05,1
+2019/08/07,Inner Sunset,B05,2
+2020/01/16,Inner Sunset,B05,1
+2020/05/21,Golden Gate Park,B05,1
+2020/09/12,Inner Sunset,B05,1
+2020/09/30,Haight Ashbury,B05,2
+2020/12/23,Inner Sunset,B05,1
+2021/05/11,Inner Sunset,B08,1
+2021/07/12,Inner Sunset,B05,2
+2022/03/27,Haight Ashbury,B05,1
+2022/09/19,Haight Ashbury,B05,1
+2024/07/11,Inner Sunset,B05,4
+2024/08/17,Haight Ashbury,B05,5
+2014/05/18,Chinatown,B01,4
+2014/09/16,Chinatown,B01,1
+2014/10/27,Chinatown,B01,2
+2015/04/18,Financial District/South Beach,B01,4
+2015/07/30,Financial District/South Beach,B01,7
+2015/10/06,Financial District/South Beach,B01,1
+2016/01/21,Financial District/South Beach,B01,5
+2016/07/15,Financial District/South Beach,B01,2
+2016/09/12,Financial District/South Beach,B01,3
+2016/12/21,Financial District/South Beach,B01,4
+2017/01/11,Chinatown,B01,3
+2014/04/11,Financial District/South Beach,B01,3
+2017/01/28,Financial District/South Beach,B01,4
+2017/03/11,Financial District/South Beach,B01,4
+2017/05/27,Financial District/South Beach,B01,3
+2017/06/17,Financial District/South Beach,B03,3
+2017/07/03,Financial District/South Beach,B01,8
+2017/07/22,Financial District/South Beach,B01,7
+2017/08/08,North Beach,B01,5
+2017/08/19,Financial District/South Beach,B01,4
+2017/09/27,Chinatown,B01,2
+2018/01/13,Financial District/South Beach,B01,3
+2018/03/08,Financial District/South Beach,B01,3
+2018/09/26,Financial District/South Beach,B01,4
+2018/11/19,Chinatown,B01,2
+2020/09/01,North Beach,B01,3
+2021/01/17,Financial District/South Beach,B01,4
+2021/06/22,Financial District/South Beach,B01,3
+2021/09/25,Financial District/South Beach,B01,5
+2021/10/14,Chinatown,B01,2
+2022/01/12,Financial District/South Beach,B01,2
+2022/01/14,Financial District/South Beach,B01,3
+2022/05/28,Financial District/South Beach,B01,6
+2022/10/29,Financial District/South Beach,B01,5
+2023/02/16,Financial District/South Beach,B01,2
+2023/07/11,Financial District/South Beach,B01,6
+2023/08/05,Chinatown,B01,4
+2023/08/09,Financial District/South Beach,B01,1
+2023/09/24,Financial District/South Beach,B01,3
+2024/01/24,Chinatown,B01,2
+2024/04/11,North Beach,B01,1
+2024/10/19,Financial District/South Beach,B01,1
+2014/11/09,Outer Richmond,B07,3
+2014/11/12,Golden Gate Park,B07,2
+2014/12/03,Outer Richmond,B07,5
+2015/01/19,Outer Richmond,B07,3
+2015/01/28,Outer Richmond,B07,2
+2015/06/04,Outer Richmond,B07,3
+2015/06/11,Outer Richmond,B07,5
+2015/06/20,Outer Richmond,B07,1
+2015/08/05,Outer Richmond,B07,2
+2015/09/01,Outer Richmond,B07,3
+2015/10/21,Seacliff,B07,1
+2015/10/22,Seacliff,B07,1
+2015/11/07,Outer Richmond,B07,1
+2015/11/16,Outer Richmond,B07,3
+2016/02/06,Outer Richmond,B07,3
+2016/03/21,Outer Richmond,B07,3
+2016/05/01,Outer Richmond,B07,6
+2016/05/11,Outer Richmond,B07,2
+2016/06/13,Outer Richmond,B07,4
+2016/06/21,Outer Richmond,B07,1
+2016/08/14,Outer Richmond,B07,3
+2016/10/23,Outer Richmond,B07,4
+2016/11/24,Outer Richmond,B07,3
+2017/01/16,Outer Richmond,B07,2
+2017/03/15,Outer Richmond,B07,4
+2017/04/20,Outer Richmond,B07,3
+2017/05/20,Outer Richmond,B07,4
+2017/06/05,Outer Richmond,B07,3
+2017/08/05,Outer Richmond,B07,3
+2017/08/18,Outer Richmond,B07,7
+2017/08/24,Outer Richmond,B07,1
+2017/10/26,Outer Richmond,B07,5
+2017/11/06,Outer Richmond,B07,1
+2018/02/19,Outer Richmond,B07,4
+2018/02/24,Outer Richmond,B07,3
+2018/02/26,Outer Richmond,B07,1
+2018/06/07,Outer Richmond,B07,3
+2018/06/30,Outer Richmond,B07,2
+2018/09/02,Golden Gate Park,B07,1
+2018/09/15,Outer Richmond,B07,4
+2018/10/03,Outer Richmond,B07,1
+2019/03/02,Outer Richmond,B07,1
+2019/09/28,Outer Richmond,B07,2
+2019/11/02,Outer Richmond,B07,2
+2019/12/04,Outer Richmond,B07,2
+2020/02/21,Seacliff,B07,1
+2020/05/07,Outer Richmond,B07,2
+2020/05/19,Seacliff,B07,1
+2020/11/03,Outer Richmond,B07,1
+2020/12/17,Outer Richmond,B07,1
+2021/09/25,Outer Richmond,B07,1
+2021/10/02,Outer Richmond,B07,4
+2022/08/18,Seacliff,B07,1
+2022/08/21,Outer Richmond,B07,4
+2022/08/24,Outer Richmond,B07,4
+2022/10/04,Outer Richmond,B07,5
+2022/10/06,Outer Richmond,B07,2
+2022/11/19,Outer Richmond,B07,3
+2023/01/18,Outer Richmond,B07,4
+2023/02/09,Outer Richmond,B07,3
+2023/03/22,Outer Richmond,B07,3
+2023/03/24,Outer Richmond,B07,5
+2023/04/16,Presidio,B07,2
+2024/10/07,Outer Richmond,B07,4
+2014/08/04,Outer Mission,B09,2
+2014/10/30,Oceanview/Merced/Ingleside,B09,4
+2014/12/26,Oceanview/Merced/Ingleside,B09,2
+2015/01/09,West of Twin Peaks,B09,3
+2015/04/17,West of Twin Peaks,B09,2
+2015/06/13,West of Twin Peaks,B09,1
+2015/08/10,West of Twin Peaks,B09,3
+2015/09/01,Outer Mission,B09,1
+2015/10/07,Outer Mission,B09,2
+2015/10/21,Oceanview/Merced/Ingleside,B09,2
+2015/11/05,Oceanview/Merced/Ingleside,B09,3
+2015/11/09,West of Twin Peaks,B09,4
+2015/12/02,Outer Mission,B09,1
+2016/06/18,Oceanview/Merced/Ingleside,B09,1
+2016/06/22,Outer Mission,B09,3
+2016/11/21,Outer Mission,B09,2
+2017/01/18,Outer Mission,B09,4
+2017/03/01,West of Twin Peaks,B09,2
+2017/03/05,West of Twin Peaks,B09,1
+2017/03/21,Outer Mission,B09,1
+2017/08/14,West of Twin Peaks,B09,4
+2017/09/11,Outer Mission,B09,3
+2017/10/26,West of Twin Peaks,B09,1
+2017/10/31,Oceanview/Merced/Ingleside,B09,1
+2017/11/14,West of Twin Peaks,B09,3
+2017/11/26,West of Twin Peaks,B09,1
+2018/01/21,Oceanview/Merced/Ingleside,B09,1
+2018/02/25,Oceanview/Merced/Ingleside,B09,3
+2018/03/12,West of Twin Peaks,B09,3
+2018/03/24,Oceanview/Merced/Ingleside,B09,2
+2018/05/19,Outer Mission,B09,3
+2018/08/26,West of Twin Peaks,B09,2
+2018/08/30,West of Twin Peaks,B09,1
+2018/09/24,West of Twin Peaks,B09,1
+2018/12/07,Oceanview/Merced/Ingleside,B09,2
+2019/03/21,Outer Mission,B09,2
+2019/11/12,West of Twin Peaks,B09,2
+2019/12/16,Oceanview/Merced/Ingleside,B09,1
+2020/01/31,Outer Mission,B09,1
+2020/02/04,Oceanview/Merced/Ingleside,B09,3
+2020/02/09,West of Twin Peaks,B09,3
+2021/01/30,West of Twin Peaks,B09,1
+2021/06/19,West of Twin Peaks,B09,3
+2021/10/01,Oceanview/Merced/Ingleside,B09,2
+2022/03/04,Oceanview/Merced/Ingleside,B09,2
+2022/03/13,West of Twin Peaks,B09,1
+2022/05/07,Outer Mission,B09,2
+2022/06/12,Oceanview/Merced/Ingleside,B09,1
+2022/07/18,Outer Mission,B09,1
+2022/09/01,Oceanview/Merced/Ingleside,B09,1
+2023/01/13,West of Twin Peaks,B09,3
+2023/05/29,Oceanview/Merced/Ingleside,B09,1
+2023/11/20,West of Twin Peaks,B09,1
+2024/02/20,West of Twin Peaks,B09,1
+2024/03/18,West of Twin Peaks,B09,1
+2024/04/10,West of Twin Peaks,B09,1
+2024/05/18,West of Twin Peaks,B09,2
+2024/09/01,West of Twin Peaks,B09,3
+2014/07/30,Marina,B04,1
+2015/04/25,Marina,B04,5
+2015/04/29,Marina,B04,2
+2015/06/13,Marina,B04,1
+2015/07/30,Marina,B04,3
+2015/08/24,Marina,B04,4
+2015/10/10,Russian Hill,B01,5
+2015/10/21,Marina,B04,4
+2015/11/17,Marina,B04,5
+2016/04/13,Marina,B04,3
+2016/05/08,Marina,B04,3
+2016/05/18,Marina,B04,4
+2016/12/29,Marina,B04,3
+2017/04/21,Marina,B04,8
+2017/06/09,Marina,B04,4
+2017/06/25,Russian Hill,B04,1
+2017/07/20,Marina,B04,3
+2017/08/13,Marina,B04,1
+2017/10/27,Marina,B04,2
+2017/12/09,Marina,B04,3
+2018/04/08,Marina,B04,2
+2018/07/17,Marina,B04,1
+2018/08/16,Marina,B04,3
+2018/11/20,Marina,B04,5
+2018/12/06,Pacific Heights,B04,5
+2018/12/15,Marina,B04,6
+2019/01/23,Marina,B04,3
+2019/02/26,Marina,B04,4
+2019/03/22,Marina,B04,2
+2019/06/02,Marina,B04,3
+2019/08/23,Marina,B04,8
+2019/09/01,Marina,B04,2
+2019/09/10,Marina,B04,3
+2019/09/20,Marina,B04,4
+2019/10/11,Marina,B04,3
+2019/11/13,Marina,B04,2
+2019/12/09,Marina,B04,3
+2020/01/12,Marina,B04,2
+2020/01/22,Marina,B04,4
+2020/08/23,Marina,B04,3
+2020/10/17,Marina,B04,4
+2020/10/27,Marina,B04,5
+2020/11/26,Marina,B04,2
+2020/12/04,Marina,B04,3
+2020/12/15,Marina,B04,4
+2021/03/07,Marina,B04,2
+2021/04/21,Marina,B04,3
+2021/05/01,Marina,B04,3
+2021/06/18,Marina,B04,2
+2021/07/01,Marina,B04,2
+2021/07/14,Marina,B04,3
+2021/07/27,Marina,B04,3
+2021/09/18,Marina,B04,3
+2021/10/16,Marina,B04,3
+2022/03/08,Marina,B04,7
+2022/03/19,Marina,B04,3
+2022/07/06,Marina,B04,3
+2022/09/12,Marina,B04,5
+2022/10/23,Presidio,B04,1
+2023/01/25,Marina,B04,6
+2023/02/14,Marina,B04,5
+2024/07/31,Marina,B04,2
+2014/06/21,Bayview Hunters Point,B10,8
+2014/11/06,Bayview Hunters Point,B10,7
+2014/11/08,Bayview Hunters Point,B10,6
+2014/12/15,Bayview Hunters Point,B10,3
+2015/01/01,Bayview Hunters Point,B10,10
+2015/01/10,Bayview Hunters Point,B10,6
+2015/02/07,Bayview Hunters Point,B10,6
+2015/02/22,Bayview Hunters Point,B10,5
+2015/03/18,Bayview Hunters Point,B10,4
+2015/03/24,Bayview Hunters Point,B10,3
+2015/09/20,Bayview Hunters Point,B10,1
+2015/09/25,Bayview Hunters Point,B10,4
+2015/09/26,Bayview Hunters Point,B10,6
+2015/10/06,Bayview Hunters Point,B10,1
+2015/10/12,Bayview Hunters Point,B10,4
+2015/10/25,Bayview Hunters Point,B10,4
+2015/11/06,Bayview Hunters Point,B10,8
+2015/12/16,Bayview Hunters Point,B10,2
+2015/12/27,Bayview Hunters Point,B10,4
+2016/03/03,Bayview Hunters Point,B10,5
+2016/04/22,Bayview Hunters Point,B10,4
+2016/05/20,Bayview Hunters Point,B10,6
+2016/06/04,Bayview Hunters Point,B10,1
+2016/07/24,Bayview Hunters Point,B10,9
+2016/08/06,Bayview Hunters Point,B10,8
+2016/09/19,Bayview Hunters Point,B10,7
+2016/11/10,Bayview Hunters Point,B10,4
+2016/12/06,Bayview Hunters Point,B10,8
+2014/03/09,Bayview Hunters Point,B10,2
+2014/03/10,Bayview Hunters Point,B10,1
+2014/03/22,Bayview Hunters Point,B10,5
+2014/04/03,Bayview Hunters Point,B10,1
+2017/05/24,Bayview Hunters Point,B10,6
+2017/07/21,Bayview Hunters Point,B10,10
+2017/08/09,Bayview Hunters Point,B10,5
+2017/09/02,Bayview Hunters Point,B10,8
+2017/09/08,Bayview Hunters Point,B10,6
+2017/11/05,Bayview Hunters Point,B10,5
+2018/02/12,Bayview Hunters Point,B10,7
+2018/04/02,Bayview Hunters Point,B10,5
+2018/04/08,Bayview Hunters Point,B10,3
+2018/04/23,Bayview Hunters Point,B10,4
+2018/05/03,Bayview Hunters Point,B10,5
+2018/05/23,Bayview Hunters Point,B10,7
+2018/06/05,Bayview Hunters Point,B10,5
+2018/10/14,Bayview Hunters Point,B10,7
+2019/01/03,Bayview Hunters Point,B10,5
+2019/02/03,Bayview Hunters Point,B10,2
+2019/02/17,Bayview Hunters Point,B10,7
+2019/03/19,Bayview Hunters Point,B10,8
+2019/03/31,Bayview Hunters Point,B10,9
+2019/07/25,Bayview Hunters Point,B10,8
+2019/10/03,Bayview Hunters Point,B10,8
+2019/10/13,Bayview Hunters Point,B10,7
+2019/11/03,Bayview Hunters Point,B10,3
+2020/01/18,Bayview Hunters Point,B10,13
+2020/03/02,Bayview Hunters Point,B10,5
+2020/03/08,Bayview Hunters Point,B10,4
+2020/04/19,Bayview Hunters Point,B10,3
+2020/05/30,Bayview Hunters Point,B10,3
+2020/06/14,Bayview Hunters Point,B10,5
+2020/08/06,Bayview Hunters Point,B10,6
+2020/09/05,Bayview Hunters Point,B10,7
+2021/08/14,Bayview Hunters Point,B10,9
+2021/10/03,Bayview Hunters Point,B10,5
+2021/10/21,Bayview Hunters Point,B10,6
+2021/11/09,Bayview Hunters Point,B10,7
+2021/11/19,Bayview Hunters Point,B10,7
+2021/12/18,Bayview Hunters Point,B10,6
+2022/01/23,Bayview Hunters Point,B10,6
+2022/01/28,Bayview Hunters Point,B10,5
+2022/01/30,Bayview Hunters Point,B10,4
+2022/03/03,Bayview Hunters Point,B10,7
+2022/04/04,Bayview Hunters Point,B10,4
+2022/07/09,Bayview Hunters Point,B10,6
+2022/08/16,Bayview Hunters Point,B10,2
+2022/11/27,Bayview Hunters Point,B10,5
+2022/12/25,Bayview Hunters Point,B10,8
+2022/12/30,Bayview Hunters Point,B10,13
+2023/01/04,Bayview Hunters Point,B10,7
+2023/01/12,Bayview Hunters Point,B10,7
+2023/01/29,Bayview Hunters Point,B10,6
+2023/02/26,Bayview Hunters Point,B10,7
+2023/03/28,Bayview Hunters Point,B10,7
+2023/05/17,Bayview Hunters Point,B10,4
+2023/06/09,Bayview Hunters Point,B10,8
+2023/07/16,Bayview Hunters Point,B10,8
+2023/10/09,Bayview Hunters Point,B10,4
+2023/10/14,Bayview Hunters Point,B10,3
+2023/12/05,Bayview Hunters Point,B10,9
+2024/01/23,Bayview Hunters Point,B10,7
+2024/03/10,Bayview Hunters Point,B10,8
+2024/04/28,Bayview Hunters Point,B10,3
+2024/05/07,Bayview Hunters Point,B10,4
+2024/05/21,Bayview Hunters Point,B10,4
+2024/06/29,Bayview Hunters Point,B10,3
+2024/08/18,Bayview Hunters Point,B10,5
+2024/09/28,Bayview Hunters Point,B10,2
+2014/06/01,Sunset/Parkside,B08,2
+2014/06/07,Sunset/Parkside,B08,1
+2014/08/21,Sunset/Parkside,B08,2
+2014/09/02,Sunset/Parkside,B08,3
+2014/11/19,Sunset/Parkside,B08,7
+2014/12/16,Sunset/Parkside,B08,4
+2015/07/06,Sunset/Parkside,B08,5
+2015/07/11,Sunset/Parkside,B08,6
+2015/09/22,Sunset/Parkside,B08,2
+2015/12/04,Sunset/Parkside,B08,7
+2015/12/24,Sunset/Parkside,B08,5
+2015/12/28,Sunset/Parkside,B08,6
+2015/12/29,Sunset/Parkside,B08,7
+2016/01/03,Sunset/Parkside,B08,6
+2016/02/28,Sunset/Parkside,B08,6
+2016/03/11,Sunset/Parkside,B08,4
+2016/07/26,Lakeshore,B08,3
+2016/08/06,Sunset/Parkside,B08,2
+2016/11/20,Sunset/Parkside,B08,3
+2017/03/13,Sunset/Parkside,B08,1
+2017/04/24,Sunset/Parkside,B08,4
+2017/04/26,Sunset/Parkside,B08,6
+2017/06/11,Sunset/Parkside,B08,2
+2017/10/09,Lakeshore,B08,1
+2017/10/21,Sunset/Parkside,B08,6
+2018/02/03,Lakeshore,B08,4
+2018/04/03,Sunset/Parkside,B08,4
+2018/04/15,Sunset/Parkside,B08,6
+2018/05/20,Sunset/Parkside,B08,8
+2018/07/14,Sunset/Parkside,B08,5
+2018/08/23,Sunset/Parkside,B08,5
+2018/12/21,Sunset/Parkside,B08,3
+2019/03/05,Sunset/Parkside,B08,2
+2019/04/10,Lakeshore,B08,4
+2019/06/04,Sunset/Parkside,B08,5
+2019/06/05,Lakeshore,B08,3
+2019/06/18,Lakeshore,B08,4
+2019/06/26,Sunset/Parkside,B08,7
+2019/07/12,Lakeshore,B08,3
+2019/09/20,Sunset/Parkside,B08,8
+2020/02/12,Sunset/Parkside,B08,5
+2020/12/02,Lakeshore,B08,3
+2021/03/17,Sunset/Parkside,B08,2
+2021/06/11,Sunset/Parkside,B08,2
+2021/06/26,Sunset/Parkside,B08,7
+2021/11/06,Sunset/Parkside,B08,1
+2021/11/27,Sunset/Parkside,B08,4
+2022/04/25,Sunset/Parkside,B08,1
+2022/06/12,Sunset/Parkside,B08,6
+2022/06/16,Sunset/Parkside,B08,7
+2022/10/01,Sunset/Parkside,B08,3
+2022/11/18,Sunset/Parkside,B08,2
+2023/08/21,Sunset/Parkside,B08,4
+2024/05/03,Sunset/Parkside,B08,8
+2024/05/25,Sunset/Parkside,B08,8
+2014/06/26,Lakeshore,B08,6
+2014/07/31,Lakeshore,B08,2
+2014/09/04,Sunset/Parkside,B08,2
+2014/09/19,West of Twin Peaks,B08,1
+2014/10/18,Sunset/Parkside,B08,4
+2014/11/18,Sunset/Parkside,B08,7
+2015/01/13,Lakeshore,B08,7
+2015/04/08,Sunset/Parkside,B08,5
+2015/06/20,Sunset/Parkside,B08,5
+2015/09/24,West of Twin Peaks,B08,2
+2016/02/09,Lakeshore,B08,3
+2016/03/25,Lakeshore,B08,1
+2016/03/28,Lakeshore,B08,3
+2016/05/01,Lakeshore,B08,3
+2014/03/06,Lakeshore,B08,2
+2014/04/09,Lakeshore,B08,1
+2017/02/04,Lakeshore,B08,2
+2017/02/16,Sunset/Parkside,B08,4
+2017/02/18,Lakeshore,B08,4
+2017/04/24,Lakeshore,B08,2
+2017/06/13,Lakeshore,B08,3
+2018/05/11,Lakeshore,B08,1
+2018/10/13,West of Twin Peaks,B08,3
+2018/11/28,Sunset/Parkside,B08,10
+2019/02/09,Lakeshore,B08,6
+2019/03/11,Lakeshore,B08,1
+2019/03/17,Lakeshore,B08,2
+2019/05/27,Lakeshore,B08,1
+2019/08/23,Lakeshore,B08,3
+2019/09/12,Lakeshore,B08,5
+2019/12/01,Lakeshore,B08,4
+2020/01/28,Sunset/Parkside,B08,3
+2020/07/02,Lakeshore,B08,1
+2020/10/12,West of Twin Peaks,B09,3
+2020/11/01,Lakeshore,B08,2
+2020/12/27,Lakeshore,B08,3
+2021/02/04,West of Twin Peaks,B08,2
+2021/07/12,Lakeshore,B08,3
+2021/11/08,Lakeshore,B08,1
+2021/12/26,Lakeshore,B08,2
+2022/06/01,Lakeshore,B08,2
+2022/12/06,Oceanview/Merced/Ingleside,B09,2
+2023/01/13,Sunset/Parkside,B08,8
+2023/01/28,Oceanview/Merced/Ingleside,B09,1
+2023/05/18,Lakeshore,B08,5
+2023/06/08,Lakeshore,B08,2
+2023/07/16,Lakeshore,B08,3
+2023/10/20,Sunset/Parkside,B08,5
+2023/12/20,Sunset/Parkside,B08,3
+2024/01/11,Lakeshore,B08,3
+2024/02/01,Lakeshore,B08,4
+2024/03/08,Sunset/Parkside,B08,7
+2024/07/16,Lakeshore,B08,3
+2024/07/26,Sunset/Parkside,B08,3
+2024/07/28,Lakeshore,B08,3
+2014/07/08,Inner Sunset,B08,1
+2015/03/28,Inner Sunset,B08,2
+2015/12/13,Twin Peaks,B08,1
+2019/11/28,Inner Sunset,B08,3
+2021/02/19,Inner Sunset,B08,1
+2021/07/26,Twin Peaks,B05,1
+2022/09/06,Inner Sunset,B08,5
+2023/05/17,Inner Sunset,B08,2
+2023/07/24,Twin Peaks,B08,1
+2024/05/29,Twin Peaks,B08,2
+2014/06/07,Haight Ashbury,B07,1
+2014/06/30,Lone Mountain/USF,B05,1
+2014/08/08,Western Addition,B05,2
+2014/10/03,Lone Mountain/USF,B05,2
+2014/10/26,Hayes Valley,B05,2
+2015/07/30,Hayes Valley,B02,5
+2015/09/09,Western Addition,B05,2
+2015/09/21,Western Addition,B05,3
+2015/11/17,Lone Mountain/USF,B05,3
+2016/01/01,Haight Ashbury,B05,1
+2016/04/02,Lone Mountain/USF,B05,4
+2016/04/23,Lone Mountain/USF,B05,2
+2016/06/27,Lone Mountain/USF,B05,3
+2016/11/11,Lone Mountain/USF,B05,1
+2017/04/09,Western Addition,B05,1
+2017/10/07,Lone Mountain/USF,B05,3
+2018/06/30,Lone Mountain/USF,B05,2
+2018/07/31,Lone Mountain/USF,B05,1
+2018/08/05,Hayes Valley,B05,1
+2018/09/27,Lone Mountain/USF,B07,2
+2018/11/14,Lone Mountain/USF,B05,4
+2018/11/25,Hayes Valley,B05,1
+2018/12/16,Western Addition,B05,1
+2019/02/08,Lone Mountain/USF,B05,2
+2019/03/15,Hayes Valley,B05,1
+2019/03/23,Lone Mountain/USF,B05,2
+2019/05/19,Haight Ashbury,B05,1
+2019/09/25,Haight Ashbury,B05,4
+2020/02/07,Hayes Valley,B05,2
+2021/01/26,Haight Ashbury,B05,1
+2021/04/29,Lone Mountain/USF,B05,3
+2021/11/05,Haight Ashbury,B05,1
+2022/01/20,Lone Mountain/USF,B05,3
+2022/01/21,Lone Mountain/USF,B05,1
+2023/05/26,Haight Ashbury,B05,2
+2023/07/19,Western Addition,B05,3
+2023/08/19,Lone Mountain/USF,B05,2
+2023/09/21,Lone Mountain/USF,B05,4
+2023/10/21,Lone Mountain/USF,B05,1
+2023/11/27,Golden Gate Park,B05,1
+2023/12/12,Western Addition,B05,2
+2024/01/15,Lone Mountain/USF,B07,1
+2024/08/10,Hayes Valley,B05,2
+2014/06/10,Sunset/Parkside,B08,1
+2014/06/23,Inner Sunset,B08,2
+2014/07/27,Golden Gate Park,B07,1
+2014/10/19,Inner Sunset,B08,2
+2014/12/04,Inner Sunset,B08,3
+2015/02/09,Inner Sunset,B07,1
+2015/06/02,Inner Sunset,B08,1
+2015/07/05,Golden Gate Park,B07,1
+2015/08/03,Inner Sunset,B08,2
+2015/10/19,Inner Sunset,B08,2
+2016/01/02,Golden Gate Park,B07,1
+2016/01/21,Inner Sunset,B07,1
+2016/03/04,Sunset/Parkside,B08,3
+2016/07/04,Sunset/Parkside,B08,5
+2016/07/27,Sunset/Parkside,B08,5
+2016/09/15,Inner Sunset,B08,2
+2017/03/06,Inner Sunset,B08,2
+2017/06/16,Golden Gate Park,B07,1
+2017/07/29,Inner Sunset,B08,2
+2017/12/11,Inner Sunset,B08,3
+2017/12/18,Golden Gate Park,B07,1
+2018/01/19,Golden Gate Park,B07,1
+2018/04/16,Sunset/Parkside,B08,5
+2018/10/05,Inner Sunset,B08,3
+2019/02/28,Sunset/Parkside,B08,4
+2019/04/03,Golden Gate Park,B07,1
+2019/07/15,Sunset/Parkside,B08,4
+2020/12/01,Inner Sunset,B08,1
+2022/01/25,Inner Sunset,B08,1
+2022/03/03,Sunset/Parkside,B08,6
+2022/03/21,Inner Sunset,B08,2
+2022/06/08,Inner Sunset,B08,2
+2022/07/19,Inner Sunset,B08,1
+2022/07/24,Inner Sunset,B08,2
+2023/08/26,Inner Sunset,B08,2
+2023/10/27,Inner Sunset,B08,1
+2024/08/01,Inner Sunset,B08,1
+2024/08/16,Inner Sunset,B08,3
+2014/10/20,Sunset/Parkside,B08,4
+2014/11/12,Sunset/Parkside,B08,4
+2014/12/05,Sunset/Parkside,B08,4
+2014/12/27,Sunset/Parkside,B08,6
+2015/04/11,Sunset/Parkside,B08,6
+2015/04/13,Sunset/Parkside,B08,2
+2016/04/06,Sunset/Parkside,B08,5
+2016/04/23,Sunset/Parkside,B08,6
+2016/08/29,Sunset/Parkside,B08,4
+2016/09/06,Sunset/Parkside,B08,3
+2016/11/15,Sunset/Parkside,B08,5
+2017/09/08,Lakeshore,B08,3
+2018/01/08,Sunset/Parkside,B08,5
+2018/05/21,Sunset/Parkside,B08,2
+2018/10/05,Sunset/Parkside,B08,3
+2018/10/28,Sunset/Parkside,B08,5
+2018/11/01,Sunset/Parkside,B08,8
+2018/11/05,Sunset/Parkside,B08,6
+2019/03/15,Sunset/Parkside,B08,9
+2019/03/21,Sunset/Parkside,B08,3
+2019/05/21,Sunset/Parkside,B08,2
+2019/06/09,Golden Gate Park,B08,1
+2019/07/07,Sunset/Parkside,B08,2
+2019/09/15,Sunset/Parkside,B08,7
+2019/09/19,Sunset/Parkside,B08,5
+2019/11/11,Golden Gate Park,B08,1
+2020/02/07,Sunset/Parkside,B08,5
+2020/07/13,Sunset/Parkside,B08,7
+2021/03/17,Lakeshore,B08,7
+2021/03/23,Sunset/Parkside,B08,4
+2021/06/18,Sunset/Parkside,B08,3
+2021/09/13,Sunset/Parkside,B08,5
+2021/10/16,Sunset/Parkside,B08,3
+2022/08/18,Sunset/Parkside,B08,2
+2022/09/24,Sunset/Parkside,B08,5
+2023/06/16,Sunset/Parkside,B08,10
+2023/07/11,Sunset/Parkside,B08,2
+2023/07/12,Sunset/Parkside,B08,3
+2023/12/17,Sunset/Parkside,B08,6
+2024/01/15,Sunset/Parkside,B08,6
+2024/08/18,Sunset/Parkside,B08,6
+2014/11/20,Castro/Upper Market,B05,3
+2015/05/21,Noe Valley,B06,2
+2015/12/11,Noe Valley,B06,3
+2016/03/05,Noe Valley,B06,3
+2016/09/20,Noe Valley,B06,1
+2017/04/23,Noe Valley,B06,1
+2017/05/03,Twin Peaks,B06,1
+2017/05/08,Noe Valley,B06,3
+2017/06/30,Twin Peaks,B06,1
+2017/09/29,Twin Peaks,B06,1
+2017/10/02,Noe Valley,B06,1
+2018/06/06,Twin Peaks,B06,1
+2018/10/04,Inner Sunset,B05,1
+2018/10/07,Twin Peaks,B06,1
+2020/08/27,Twin Peaks,B06,1
+2020/10/14,Noe Valley,B06,3
+2021/07/04,Twin Peaks,B06,1
+2021/11/22,Noe Valley,B06,5
+2022/08/22,Noe Valley,B06,1
+2022/12/07,Castro/Upper Market,B06,1
+2023/01/23,Noe Valley,B06,3
+2023/01/26,Inner Sunset,B05,1
+2023/01/29,Twin Peaks,B06,1
+2023/06/23,Noe Valley,B06,1
+2023/09/07,Noe Valley,B06,3
+2014/06/01,Bayview Hunters Point,B10,7
+2014/06/08,Bayview Hunters Point,B10,3
+2014/11/23,Bayview Hunters Point,B10,7
+2015/08/18,Bayview Hunters Point,B10,4
+2016/03/29,Bayview Hunters Point,B10,3
+2016/04/29,Bayview Hunters Point,B10,4
+2016/05/12,Bayview Hunters Point,B10,5
+2016/09/13,Bayview Hunters Point,B10,5
+2016/10/18,Bayview Hunters Point,B10,4
+2017/02/06,Bayview Hunters Point,B10,6
+2017/03/05,Bayview Hunters Point,B10,1
+2017/05/09,Bayview Hunters Point,B10,3
+2017/09/13,Bayview Hunters Point,B10,13
+2017/11/23,Bayview Hunters Point,B10,2
+2018/06/16,Bayview Hunters Point,B10,7
+2019/02/15,Potrero Hill,B10,1
+2019/05/31,Bayview Hunters Point,B10,5
+2020/12/26,Bayview Hunters Point,B10,5
+2021/05/30,Potrero Hill,B10,2
+2021/06/25,Bayview Hunters Point,B10,13
+2023/01/27,Bayview Hunters Point,B10,11
+2023/08/28,Bayview Hunters Point,B10,6
+2023/12/09,Bayview Hunters Point,B10,6
+2024/05/19,Bayview Hunters Point,B10,3
+2024/06/23,Bayview Hunters Point,B10,5
+2024/09/17,Bayview Hunters Point,B10,2
+2014/05/19,Glen Park,B06,2
+2014/10/11,Glen Park,B06,1
+2015/03/09,Glen Park,B06,2
+2015/04/27,Glen Park,B06,3
+2015/10/16,Glen Park,B06,1
+2016/04/19,Glen Park,B06,1
+2017/10/01,Glen Park,B06,1
+2018/01/29,Glen Park,B06,1
+2018/02/18,Glen Park,B06,1
+2018/03/15,Glen Park,B06,1
+2018/09/09,Noe Valley,B06,2
+2018/10/11,Glen Park,B06,1
+2019/03/01,Glen Park,B06,1
+2019/09/17,Glen Park,B06,2
+2020/07/07,Noe Valley,B06,1
+2023/02/01,Noe Valley,B06,2
+2023/10/02,Glen Park,B06,1
+2015/03/21,North Beach,B01,2
+2015/04/09,North Beach,B01,1
+2015/05/09,Russian Hill,B01,3
+2015/06/08,North Beach,B01,2
+2015/06/16,North Beach,B01,1
+2015/10/27,Russian Hill,B01,4
+2016/01/01,North Beach,B01,4
+2016/02/10,North Beach,B01,2
+2016/04/16,North Beach,B01,3
+2016/07/12,North Beach,B01,5
+2016/07/20,Russian Hill,B01,2
+2016/08/20,North Beach,B01,1
+2016/10/23,North Beach,B01,1
+2017/03/12,North Beach,B01,5
+2017/03/13,North Beach,B01,2
+2017/06/08,North Beach,B01,2
+2017/08/18,Russian Hill,B01,1
+2017/10/16,North Beach,B01,2
+2018/02/24,North Beach,B01,4
+2018/04/23,Russian Hill,B01,3
+2018/06/02,Russian Hill,B01,1
+2018/06/24,Chinatown,B01,4
+2018/07/30,North Beach,B01,4
+2018/10/01,Russian Hill,B01,2
+2018/10/14,North Beach,B01,2
+2018/11/04,North Beach,B01,3
+2018/12/25,North Beach,B01,1
+2019/09/19,North Beach,B01,2
+2020/08/20,Russian Hill,B01,2
+2020/11/12,North Beach,B01,3
+2021/04/01,Russian Hill,B01,1
+2021/08/27,Russian Hill,B01,4
+2022/02/06,North Beach,B01,6
+2022/02/19,North Beach,B01,1
+2022/06/21,Russian Hill,B01,1
+2022/11/16,North Beach,B01,3
+2023/02/22,North Beach,B01,5
+2023/07/04,North Beach,B01,1
+2023/10/14,North Beach,B01,2
+2023/11/29,North Beach,B01,5
+2024/01/15,North Beach,B01,5
+2024/04/06,North Beach,B01,3
+2024/08/31,North Beach,B01,2
+2024/09/02,Russian Hill,B01,1
+2024/10/11,,B01,1
+2014/06/23,Mission Bay,B03,1
+2014/10/21,Mission Bay,B02,1
+2015/03/03,Mission,B02,5
+2015/03/09,Mission,B02,4
+2015/08/17,South of Market,B03,10
+2016/10/18,South of Market,B03,4
+2016/11/13,Mission,B02,3
+2017/02/04,South of Market,B02,4
+2017/11/02,Mission,B02,4
+2019/03/25,Mission,B02,6
+2019/04/30,Potrero Hill,B02,1
+2022/03/08,South of Market,B03,5
+2022/03/20,Mission Bay,B03,1
+2022/04/01,Mission Bay,B03,1
+2022/05/01,Mission,B02,2
+2022/06/29,Mission Bay,B03,4
+2023/10/13,Mission,B02,11
+2024/03/24,Mission,B02,8
+2024/04/19,Mission Bay,B03,5
+2024/09/21,Mission,B02,5
+2014/07/08,South of Market,B03,5
+2014/07/22,Inner Richmond,B07,1
+2014/11/08,Seacliff,B07,1
+2015/02/25,Outer Richmond,B07,5
+2015/05/05,Inner Richmond,B07,1
+2015/05/15,Outer Richmond,B07,3
+2015/05/21,Golden Gate Park,B07,1
+2015/06/19,Outer Richmond,B07,1
+2015/07/11,Inner Richmond,B07,2
+2015/09/02,Inner Richmond,B07,3
+2016/03/02,Inner Richmond,B07,4
+2016/04/05,Outer Richmond,B07,1
+2016/04/05,Inner Richmond,B07,3
+2016/04/21,Outer Richmond,B07,1
+2016/05/26,Inner Richmond,B07,1
+2016/06/17,Inner Richmond,B07,4
+2016/09/01,Inner Richmond,B07,2
+2016/11/10,Inner Richmond,B07,1
+2016/11/15,Inner Richmond,B07,1
+2016/11/18,Golden Gate Park,B07,1
+2014/03/22,Inner Richmond,B07,3
+2014/03/28,Inner Richmond,B07,1
+2017/01/31,Outer Richmond,B07,2
+2017/03/12,Outer Richmond,B07,4
+2017/04/05,Outer Richmond,B07,2
+2017/07/11,Outer Richmond,B07,5
+2017/07/14,Inner Richmond,B07,3
+2017/09/12,Presidio,B99,1
+2017/09/29,Inner Richmond,B07,1
+2017/10/01,Outer Richmond,B07,2
+2017/11/27,Outer Richmond,B07,3
+2017/12/31,Inner Richmond,B07,2
+2018/04/02,Golden Gate Park,B07,1
+2018/05/03,Inner Richmond,B07,2
+2018/05/25,Golden Gate Park,B07,1
+2018/07/12,Outer Richmond,B07,2
+2018/08/14,Inner Richmond,B07,2
+2018/10/16,Outer Richmond,B07,2
+2019/01/23,Outer Richmond,B07,1
+2019/04/14,Inner Richmond,B07,2
+2019/05/14,Inner Richmond,B07,1
+2019/07/06,Inner Richmond,B07,1
+2019/08/18,Inner Richmond,B07,2
+2019/09/19,Inner Richmond,B07,5
+2019/11/11,Inner Richmond,B07,2
+2019/11/14,Outer Richmond,B07,1
+2020/07/17,Inner Richmond,B07,1
+2020/07/29,Inner Richmond,B07,4
+2020/09/21,Outer Richmond,B07,1
+2020/12/18,Inner Richmond,B07,3
+2021/05/18,Inner Richmond,B07,1
+2021/11/02,Inner Richmond,B07,1
+2021/11/03,Inner Richmond,B07,4
+2021/11/12,Inner Richmond,B07,2
+2021/12/09,Inner Richmond,B07,4
+2022/03/08,Inner Richmond,B07,2
+2022/03/20,Outer Richmond,B07,4
+2022/10/19,Inner Richmond,B07,6
+2022/12/02,Inner Richmond,B07,7
+2023/04/05,Outer Richmond,B07,5
+2023/04/21,Inner Richmond,B07,2
+2023/06/18,Inner Richmond,B07,1
+2023/09/13,Inner Richmond,B07,4
+2024/01/31,Outer Richmond,B07,3
+2024/03/08,Inner Richmond,B07,3
+2024/03/20,Inner Richmond,B07,1
+2014/06/25,Bernal Heights,B06,5
+2014/06/27,Bernal Heights,B06,1
+2014/10/30,Outer Mission,B09,4
+2014/11/01,Outer Mission,B09,2
+2014/12/04,Bernal Heights,B06,4
+2014/12/23,Bernal Heights,B06,2
+2015/01/28,Bernal Heights,B06,4
+2015/04/02,Bernal Heights,B06,3
+2015/04/12,Bernal Heights,B06,2
+2015/04/25,Bernal Heights,B06,3
+2015/05/18,Bernal Heights,B06,1
+2015/06/02,Bernal Heights,B06,1
+2015/07/01,Bernal Heights,B06,4
+2015/08/28,Bernal Heights,B10,2
+2015/09/01,Excelsior,B09,2
+2015/10/31,Bernal Heights,B06,1
+2015/11/03,Bernal Heights,B06,1
+2016/04/11,Bernal Heights,B06,3
+2016/07/16,Excelsior,B09,1
+2016/07/27,Bernal Heights,B06,1
+2016/09/07,Excelsior,B09,2
+2016/12/21,Bernal Heights,B06,2
+2014/03/30,Bernal Heights,B10,1
+2014/04/11,Outer Mission,B09,3
+2014/04/11,Bernal Heights,B06,1
+2017/01/20,Outer Mission,B09,4
+2017/04/10,Bernal Heights,B06,1
+2017/06/18,Bernal Heights,B10,1
+2017/09/10,Bernal Heights,B06,2
+2018/08/10,Bernal Heights,B06,3
+2018/11/21,Bernal Heights,B06,3
+2019/06/04,Bernal Heights,B06,2
+2019/10/02,Bernal Heights,B06,2
+2019/11/13,Excelsior,B09,2
+2019/11/18,Bernal Heights,B06,3
+2020/07/08,Excelsior,B09,2
+2021/01/15,Bernal Heights,B06,2
+2021/01/26,Bernal Heights,B10,2
+2021/11/01,Bernal Heights,B10,1
+2022/05/27,Bernal Heights,B06,5
+2022/06/08,Bernal Heights,B10,4
+2022/06/14,Outer Mission,B06,2
+2022/07/21,Bernal Heights,B06,3
+2022/08/11,Bernal Heights,B06,1
+2022/09/19,Outer Mission,B09,1
+2022/12/14,Bernal Heights,B06,3
+2023/01/03,Glen Park,B06,1
+2023/01/21,Bernal Heights,B06,3
+2023/07/04,Bernal Heights,B10,2
+2024/03/08,Bernal Heights,B10,2
+2014/07/31,Oceanview/Merced/Ingleside,B09,1
+2014/08/01,Oceanview/Merced/Ingleside,B09,1
+2016/02/17,Outer Mission,B09,3
+2016/03/06,Oceanview/Merced/Ingleside,B09,2
+2017/01/02,Lakeshore,B08,2
+2017/08/31,Oceanview/Merced/Ingleside,B09,3
+2017/11/29,Outer Mission,B09,3
+2018/03/14,Outer Mission,B09,2
+2018/06/26,Excelsior,B09,3
+2018/09/19,Oceanview/Merced/Ingleside,B09,2
+2018/12/09,Oceanview/Merced/Ingleside,B09,2
+2018/12/13,Oceanview/Merced/Ingleside,B09,5
+2019/04/20,Oceanview/Merced/Ingleside,B09,2
+2019/04/25,Outer Mission,B09,1
+2019/08/22,Oceanview/Merced/Ingleside,B09,3
+2019/09/30,Oceanview/Merced/Ingleside,B09,3
+2019/12/05,Oceanview/Merced/Ingleside,B09,4
+2020/01/02,Oceanview/Merced/Ingleside,B09,5
+2020/05/18,Oceanview/Merced/Ingleside,B09,1
+2020/07/05,Oceanview/Merced/Ingleside,B09,2
+2020/11/25,Excelsior,B09,5
+2021/04/12,Outer Mission,B09,1
+2021/04/23,Oceanview/Merced/Ingleside,B09,4
+2021/11/18,Oceanview/Merced/Ingleside,B09,3
+2021/12/08,Lakeshore,B08,3
+2021/12/13,Oceanview/Merced/Ingleside,B09,2
+2022/10/03,Oceanview/Merced/Ingleside,B09,2
+2023/02/10,Oceanview/Merced/Ingleside,B09,2
+2023/04/07,Excelsior,B09,2
+2023/09/26,Outer Mission,B09,2
+2023/12/27,Oceanview/Merced/Ingleside,B09,2
+2024/03/11,Oceanview/Merced/Ingleside,B09,2
+2024/05/07,Oceanview/Merced/Ingleside,B09,1
+2024/10/02,Oceanview/Merced/Ingleside,B09,3
+2014/04/25,Outer Richmond,B07,4
+2014/08/24,Outer Richmond,B07,3
+2014/12/25,Outer Richmond,B07,3
+2015/09/17,Outer Richmond,B07,2
+2015/10/17,Lincoln Park,B07,1
+2015/10/30,Outer Richmond,B07,3
+2016/10/20,Outer Richmond,B07,3
+2017/04/24,Outer Richmond,B07,3
+2017/06/09,Outer Richmond,B07,3
+2017/06/15,Outer Richmond,B07,5
+2018/04/25,Outer Richmond,B07,2
+2018/06/20,Outer Richmond,B07,5
+2018/07/04,Outer Richmond,B07,4
+2018/09/10,Outer Richmond,B07,3
+2019/02/11,Outer Richmond,B07,1
+2019/02/19,Outer Richmond,B07,7
+2019/09/07,Outer Richmond,B07,4
+2019/11/13,Outer Richmond,B07,6
+2020/01/17,Outer Richmond,B07,1
+2020/08/13,Outer Richmond,B07,3
+2021/01/03,Outer Richmond,B07,1
+2021/01/15,Outer Richmond,B07,5
+2021/03/15,Outer Richmond,B07,3
+2021/09/07,Outer Richmond,B07,3
+2021/12/01,Outer Richmond,B07,2
+2022/04/13,Outer Richmond,B07,4
+2022/05/29,Outer Richmond,B07,4
+2022/07/02,Golden Gate Park,B07,2
+2023/03/28,Outer Richmond,B07,2
+2023/04/18,Outer Richmond,B07,3
+2023/09/20,Lincoln Park,B07,1
+2024/02/19,Outer Richmond,B07,8
+2024/08/02,Golden Gate Park,B07,2
+2024/09/01,Outer Richmond,B07,2
+2016/04/14,Financial District/South Beach,B03,5
+2017/06/01,Financial District/South Beach,B03,3
+2018/06/05,Financial District/South Beach,B03,3
+2018/06/14,Financial District/South Beach,B03,7
+2018/06/18,Financial District/South Beach,B03,12
+2018/07/12,Financial District/South Beach,B03,5
+2018/07/19,Financial District/South Beach,B03,2
+2019/11/11,Financial District/South Beach,B03,4
+2020/06/14,Financial District/South Beach,B03,2
+2021/05/11,Financial District/South Beach,B03,4
+2022/04/20,Financial District/South Beach,B03,4
+2022/07/04,Financial District/South Beach,B03,8
+2022/08/04,Financial District/South Beach,B03,7
+2022/10/16,Financial District/South Beach,B03,7
+2023/07/31,Financial District/South Beach,B03,5
+2023/08/20,Financial District/South Beach,B03,4
+2023/12/16,Financial District/South Beach,B03,7
+2024/01/19,Financial District/South Beach,B03,6
+2024/05/01,Financial District/South Beach,B03,4
+2014/05/18,South of Market,B02,3
+2014/06/07,Mission,B02,6
+2014/06/08,Mission,B02,7
+2014/06/11,Hayes Valley,B02,4
+2014/09/01,Western Addition,B02,1
+2014/09/25,Hayes Valley,B02,3
+2015/07/17,South of Market,B02,1
+2016/01/25,Mission,B02,3
+2016/02/28,South of Market,B02,1
+2016/07/21,Mission,B02,6
+2016/08/03,Mission,B02,8
+2016/09/14,South of Market,B02,5
+2016/12/01,Hayes Valley,B02,1
+2014/03/26,South of Market,B02,3
+2017/04/25,Western Addition,B02,3
+2017/08/07,Tenderloin,B02,7
+2017/10/03,Mission,B02,9
+2017/12/17,Hayes Valley,B02,2
+2018/03/31,Mission,B02,7
+2018/06/25,Hayes Valley,B02,2
+2018/09/30,Hayes Valley,B02,1
+2019/04/16,Hayes Valley,B02,1
+2019/12/16,Hayes Valley,B02,2
+2020/03/07,Hayes Valley,B02,4
+2020/08/19,Mission,B02,10
+2020/11/25,Hayes Valley,B02,2
+2021/04/17,South of Market,B02,4
+2021/06/27,Tenderloin,B02,7
+2022/09/30,Hayes Valley,B02,6
+2022/11/15,South of Market,B02,8
+2023/02/11,Tenderloin,B03,6
+2023/07/08,Tenderloin,B02,8
+2023/12/17,Hayes Valley,B02,3
+2024/01/20,Hayes Valley,B02,2
+2024/05/11,Tenderloin,B03,7
+2024/06/11,Tenderloin,B02,5
+2024/07/02,Tenderloin,B02,11
+2024/08/08,Hayes Valley,B02,3
+2014/06/22,Potrero Hill,B10,2
+2014/09/13,Potrero Hill,B10,3
+2015/01/13,Potrero Hill,B10,2
+2015/02/21,Potrero Hill,B10,1
+2015/04/11,Potrero Hill,B10,1
+2015/07/05,Potrero Hill,B03,1
+2015/11/02,Potrero Hill,B10,2
+2016/02/02,Potrero Hill,B10,2
+2016/03/20,Potrero Hill,B10,3
+2016/04/03,Potrero Hill,B10,1
+2016/08/08,Potrero Hill,B10,1
+2016/11/22,Potrero Hill,B10,3
+2017/02/06,Potrero Hill,B10,1
+2017/03/17,Potrero Hill,B10,2
+2017/04/05,Potrero Hill,B10,1
+2017/04/16,Potrero Hill,B10,2
+2017/07/07,Potrero Hill,B10,4
+2017/07/25,Potrero Hill,B10,1
+2017/08/23,Potrero Hill,B10,3
+2017/09/06,Potrero Hill,B10,3
+2018/01/10,Potrero Hill,B10,3
+2018/01/24,Potrero Hill,B10,3
+2018/02/08,Potrero Hill,B10,2
+2018/08/29,Mission,B10,1
+2018/09/18,Potrero Hill,B03,1
+2020/04/07,Potrero Hill,B10,1
+2020/11/17,Potrero Hill,B10,2
+2021/01/17,Bayview Hunters Point,B10,6
+2021/09/18,Potrero Hill,B10,2
+2022/02/16,Potrero Hill,B10,3
+2022/03/05,Potrero Hill,B10,1
+2022/03/07,Potrero Hill,B10,1
+2022/04/29,Potrero Hill,B10,1
+2023/01/04,Potrero Hill,B10,2
+2023/04/09,Potrero Hill,B10,4
+2024/09/22,Potrero Hill,B10,1
+2014/08/13,Pacific Heights,B04,5
+2014/08/13,Nob Hill,B04,2
+2014/09/01,Pacific Heights,B04,4
+2014/10/04,Pacific Heights,B04,4
+2015/02/26,Western Addition,B04,1
+2015/06/15,Western Addition,B04,1
+2015/09/24,Pacific Heights,B04,2
+2015/09/30,Pacific Heights,B04,6
+2015/10/07,Pacific Heights,B04,2
+2015/11/12,Western Addition,B04,3
+2016/01/26,Pacific Heights,B04,2
+2016/02/08,Russian Hill,B04,1
+2016/05/05,Pacific Heights,B04,3
+2016/07/04,Pacific Heights,B04,2
+2016/07/18,Pacific Heights,B04,3
+2016/07/23,Pacific Heights,B04,2
+2016/10/13,Pacific Heights,B04,3
+2014/03/25,Pacific Heights,B04,2
+2017/02/09,Pacific Heights,B04,2
+2017/05/28,Pacific Heights,B04,3
+2017/07/11,Pacific Heights,B04,2
+2017/08/25,Pacific Heights,B04,3
+2018/02/12,Pacific Heights,B04,3
+2018/07/05,Pacific Heights,B04,2
+2018/08/01,Pacific Heights,B04,1
+2018/11/30,Pacific Heights,B04,4
+2018/12/05,Pacific Heights,B04,5
+2019/01/02,Pacific Heights,B04,5
+2019/02/16,Pacific Heights,B04,5
+2019/04/18,Pacific Heights,B04,3
+2019/05/15,Pacific Heights,B04,4
+2019/05/25,Pacific Heights,B04,2
+2019/06/20,Pacific Heights,B04,6
+2019/07/23,Japantown,B04,2
+2019/08/22,Pacific Heights,B04,6
+2019/11/24,Pacific Heights,B04,1
+2019/12/07,Pacific Heights,B04,6
+2019/12/14,Pacific Heights,B04,2
+2020/07/14,Pacific Heights,B04,7
+2020/09/04,Pacific Heights,B04,4
+2020/12/09,Pacific Heights,B04,5
+2021/07/29,Pacific Heights,B04,5
+2021/09/25,Pacific Heights,B04,2
+2021/10/01,Pacific Heights,B04,6
+2022/07/31,Pacific Heights,B04,3
+2022/08/12,Western Addition,B04,2
+2022/09/03,Pacific Heights,B04,3
+2022/12/26,Pacific Heights,B04,3
+2022/12/27,Pacific Heights,B04,4
+2023/03/01,Pacific Heights,B04,1
+2023/06/05,Pacific Heights,B04,4
+2023/08/24,Pacific Heights,B04,5
+2024/05/12,Pacific Heights,B04,1
+2014/04/22,West of Twin Peaks,B08,2
+2014/04/25,West of Twin Peaks,B08,1
+2015/04/28,West of Twin Peaks,B08,2
+2015/07/11,West of Twin Peaks,B09,2
+2015/07/18,Twin Peaks,B08,1
+2016/01/22,West of Twin Peaks,B08,2
+2016/02/02,West of Twin Peaks,B08,2
+2016/11/03,West of Twin Peaks,B09,2
+2017/01/15,West of Twin Peaks,B08,2
+2017/03/21,West of Twin Peaks,B08,4
+2017/06/18,West of Twin Peaks,B08,3
+2017/06/19,West of Twin Peaks,B09,1
+2017/08/29,West of Twin Peaks,B08,1
+2017/09/12,West of Twin Peaks,B08,1
+2018/02/08,West of Twin Peaks,B08,2
+2018/09/11,Twin Peaks,B08,2
+2018/11/10,West of Twin Peaks,B09,5
+2019/01/29,West of Twin Peaks,B09,1
+2019/05/12,West of Twin Peaks,B08,3
+2019/10/19,West of Twin Peaks,B09,1
+2020/04/24,West of Twin Peaks,B09,2
+2020/11/09,West of Twin Peaks,B08,2
+2021/02/05,West of Twin Peaks,B08,2
+2021/08/27,West of Twin Peaks,B08,3
+2022/10/03,West of Twin Peaks,B09,4
+2022/11/03,West of Twin Peaks,B08,2
+2022/12/21,West of Twin Peaks,B09,2
+2023/08/09,West of Twin Peaks,B08,2
+2024/02/06,West of Twin Peaks,B08,2
+2024/05/15,West of Twin Peaks,B09,3
+2015/04/26,Sunset/Parkside,B08,2
+2015/06/21,West of Twin Peaks,B08,1
+2015/09/08,Sunset/Parkside,B08,6
+2016/06/18,Sunset/Parkside,B08,5
+2016/06/26,West of Twin Peaks,B08,1
+2016/07/26,Sunset/Parkside,B08,3
+2016/11/03,West of Twin Peaks,B08,1
+2017/01/10,Inner Sunset,B08,3
+2017/01/15,Sunset/Parkside,B08,3
+2017/04/29,West of Twin Peaks,B08,1
+2017/07/26,Inner Sunset,B08,1
+2017/07/30,Sunset/Parkside,B08,5
+2017/08/09,West of Twin Peaks,B08,1
+2018/09/01,Inner Sunset,B08,3
+2018/09/14,Inner Sunset,B08,2
+2019/01/02,Sunset/Parkside,B08,2
+2019/04/25,West of Twin Peaks,B08,1
+2019/12/11,West of Twin Peaks,B08,2
+2020/02/04,Inner Sunset,B08,1
+2021/09/03,West of Twin Peaks,B08,1
+2022/04/22,Inner Sunset,B08,1
+2022/10/04,Inner Sunset,B08,2
+2022/11/05,West of Twin Peaks,B08,4
+2023/05/29,Inner Sunset,B08,2
+2023/06/20,Inner Sunset,B08,6
+2023/07/08,Inner Sunset,B08,6
+2015/01/15,Nob Hill,B01,3
+2015/03/17,Russian Hill,B04,1
+2016/01/13,Nob Hill,B01,2
+2016/07/01,Russian Hill,B01,2
+2016/07/14,Russian Hill,B04,2
+2016/11/26,Nob Hill,B01,2
+2017/01/29,Russian Hill,B01,3
+2017/05/12,Russian Hill,B01,3
+2017/07/05,Nob Hill,B01,3
+2017/10/24,Nob Hill,B04,4
+2018/01/21,Nob Hill,B01,2
+2018/03/02,Nob Hill,B01,2
+2018/03/28,Western Addition,B04,3
+2018/04/05,Nob Hill,B01,3
+2018/11/07,Russian Hill,B01,2
+2019/01/12,Nob Hill,B01,1
+2019/06/20,Nob Hill,B01,2
+2019/10/19,Nob Hill,B04,1
+2019/10/27,Nob Hill,B01,1
+2020/12/05,Nob Hill,B01,2
+2021/05/29,Nob Hill,B04,5
+2022/03/24,Nob Hill,B01,3
+2022/10/23,Nob Hill,B04,3
+2022/11/25,Nob Hill,B01,4
+2022/12/03,Russian Hill,B04,2
+2023/02/16,Nob Hill,B01,3
+2023/06/20,Nob Hill,B01,4
+2023/06/23,Nob Hill,B01,3
+2023/09/14,Nob Hill,B01,5
+2023/10/01,Nob Hill,B01,2
+2023/12/09,Nob Hill,B04,2
+2024/04/01,Nob Hill,B01,1
+2024/08/11,Nob Hill,B01,3
+2024/08/19,Russian Hill,B01,1
+2024/10/05,Nob Hill,B01,2
+2024/10/07,Russian Hill,B01,3
+2014/10/22,Portola,B10,3
+2014/11/17,Excelsior,B09,5
+2014/12/26,Portola,B09,1
+2015/02/06,Bayview Hunters Point,B10,11
+2015/04/13,Bayview Hunters Point,B10,5
+2015/05/12,Portola,B09,1
+2015/09/16,Bayview Hunters Point,B10,5
+2015/10/23,Bayview Hunters Point,B10,4
+2015/12/14,Bayview Hunters Point,B10,1
+2016/01/06,Portola,B10,2
+2016/05/19,Bayview Hunters Point,B10,7
+2016/09/08,Bayview Hunters Point,B10,11
+2017/05/17,Portola,B10,3
+2018/06/25,Portola,B09,1
+2018/12/06,Portola,B10,1
+2018/12/19,Bayview Hunters Point,B10,3
+2019/03/13,Bayview Hunters Point,B10,10
+2019/04/13,Bayview Hunters Point,B10,4
+2019/07/20,Portola,B10,1
+2019/10/19,Portola,B10,1
+2019/11/19,Portola,B09,1
+2020/01/07,Bayview Hunters Point,B10,8
+2020/08/19,Portola,B09,1
+2020/10/19,Portola,B09,1
+2021/05/20,Portola,B10,1
+2022/04/12,Bayview Hunters Point,B10,6
+2022/05/06,Portola,B10,2
+2022/06/11,Portola,B10,1
+2023/02/28,Bayview Hunters Point,B10,7
+2023/11/30,Bayview Hunters Point,B10,6
+2024/01/14,Portola,B10,3
+2024/01/31,Portola,B09,1
+2024/03/12,Bayview Hunters Point,B10,7
+2024/07/03,Portola,B10,1
+2024/09/17,,B10,3
+2015/03/03,Excelsior,B09,3
+2015/03/04,Excelsior,B09,1
+2015/03/19,Excelsior,B09,3
+2015/05/29,Excelsior,B09,2
+2015/06/12,Excelsior,B09,3
+2015/08/14,Excelsior,B09,2
+2015/10/11,Excelsior,B09,2
+2015/10/14,Excelsior,B09,3
+2016/02/21,Excelsior,B09,3
+2016/06/06,Excelsior,B09,2
+2016/07/29,McLaren Park,B09,1
+2016/08/07,Excelsior,B09,5
+2016/10/05,Outer Mission,B09,3
+2016/11/12,Excelsior,B09,1
+2017/01/05,Excelsior,B09,2
+2014/03/13,Visitacion Valley,B09,1
+2017/04/24,Excelsior,B09,1
+2017/06/10,Excelsior,B09,3
+2017/06/27,Outer Mission,B09,3
+2017/07/23,Visitacion Valley,B09,2
+2017/07/24,Excelsior,B09,4
+2017/08/28,Excelsior,B09,4
+2018/03/23,Excelsior,B09,1
